@@ -3,6 +3,7 @@ Projeto de loja em Spring com Ajax, usando OpenGraph e TwitterCard.<br/>
 
 # Linguagens
 Java<br/>
+JS (jQuery)<br/>
 Html<br/>
 CSS<br/>
 
@@ -13,4 +14,5 @@ Maven<br/>
 OpenGraph e TwitterCard<br/>
 JPA/Hibernate<br/>
 MySQL<br/>
+Ajax<br/>
 XAMPP<br/>
