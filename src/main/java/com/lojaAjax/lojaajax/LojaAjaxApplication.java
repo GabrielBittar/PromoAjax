@@ -20,8 +20,9 @@ public class LojaAjaxApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		SocialMetaTag og = service.getOpenGraphByUrl("https://www.udemy.com/course/laravel-beginner-fundamentals/");
-		System.out.println(og.toString());
+		SocialMetaTag tag = service.getSocialMetaTagByUrl("https://www.udemy.com/course/laravel-beginner-fundamentals/");
+		System.out.println(tag.toString());
+		
 	}
 
 }
