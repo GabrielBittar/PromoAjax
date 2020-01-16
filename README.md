@@ -1,2 +1,16 @@
 # loja-ajax
-Projeto de loja com ajax Spring Boot.
+Projeto de loja em Spring com Ajax, usando OpenGraph e TwitterCard.
+
+# Linguagens
+Java
+Html
+CSS
+
+# Tecnologias usadas
+Spring
+Thymeleaf
+Maven
+OpenGraph e TwitterCard
+JPA/Hibernate
+MySQL
+XAMPP
