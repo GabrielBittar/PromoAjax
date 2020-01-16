@@ -8,7 +8,7 @@ public class SocialMetaTag implements Serializable {
 	private String site;
 	private String title;
 	private String url;
-	private String imageUrl;
+	private String image;
 	
 	public String getSite() {
 		return site;
@@ -28,12 +28,18 @@ public class SocialMetaTag implements Serializable {
 	public void setUrl(String url) {
 		this.url = url;
 	}
-	public String getImageUrl() {
-		return imageUrl;
+	public String getImage() {
+		return image;
 	}
-	public void setImageUrl(String imageUrl) {
-		this.imageUrl = imageUrl;
+	public void setImage(String image) {
+		this.image = image;
 	}
+	
+	@Override
+	public String toString() {
+		return "SocialMetaTag [site=" + site + ", title=" + title + ", url=" + url + ", image=" + image + "]";
+	}
+	
 	
 	
 }
