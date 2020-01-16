@@ -1,16 +1,16 @@
 # loja-ajax
-Projeto de loja em Spring com Ajax, usando OpenGraph e TwitterCard.
+Projeto de loja em Spring com Ajax, usando OpenGraph e TwitterCard.<br/>
 
 # Linguagens
-Java
-Html
-CSS
+Java<br/>
+Html<br/>
+CSS<br/>
 
 # Tecnologias usadas
-Spring
-Thymeleaf
-Maven
-OpenGraph e TwitterCard
-JPA/Hibernate
-MySQL
-XAMPP
+Spring<br/>
+Thymeleaf<br/>
+Maven<br/>
+OpenGraph e TwitterCard<br/>
+JPA/Hibernate<br/>
+MySQL<br/>
+XAMPP<br/>
