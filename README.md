@@ -1,5 +1,5 @@
 # loja-ajax
-Projeto de loja em Spring com Ajax, usando OpenGraph e TwitterCard.<br/>
+Aplicativo de cadastros de promoções de lojas em Spring com Ajax, usando OpenGraph e TwitterCard.<br/>
 
 # Linguagens
 Java<br/>
