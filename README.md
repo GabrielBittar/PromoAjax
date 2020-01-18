@@ -15,4 +15,5 @@ OpenGraph e TwitterCard<br/>
 JPA/Hibernate<br/>
 MySQL<br/>
 Ajax<br/>
+Bootstrap<br/>
 XAMPP<br/>
