@@ -14,8 +14,11 @@ $("#linkPromocao").on('change', function(){
 			},
 			statusCode: {
 				404: function(){
-					$("#alert").addClass("alert alert-danger").text("Não foi possível obter informações por esta URL.")
+					$("#alert").addClass("alert alert-danger").text("Não foi possível obter informações por esta URL.");
 				}
+			},
+			error: function(){
+				$("#alert").addClass("alert alert-danger").text("Ops! Algo deu errado, tente novamente mais tarde.");
 			}
 		})
 	}
