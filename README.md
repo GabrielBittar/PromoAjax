@@ -17,3 +17,6 @@ MySQL<br/>
 Ajax<br/>
 Bootstrap<br/>
 XAMPP<br/>
+
+# Como inicializar
+...
