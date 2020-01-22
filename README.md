@@ -15,6 +15,7 @@ Aplicativo de cadastros de promoções de lojas em Spring com Ajax, usando OpenG
 * JPA/Hibernate<br/>
 * MySQL<br/>
 * Ajax<br/>
+* jSoup<br/>
 * Bootstrap<br/>
 * XAMPP<br/>
 
